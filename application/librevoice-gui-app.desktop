@@ -1,0 +1,7 @@
+[Desktop Entry]
+Exec=librevoice-gui-app
+Icon=librevoice
+Type=Application
+StartupNotify=true
+
+Name=LibreVoice Gui

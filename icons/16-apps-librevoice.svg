@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="32mm"
+   height="32mm"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="svg908"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   sodipodi:docname="logo-square-symbol-32.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview910"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="3.0042097"
+     inkscape:cx="90.706051"
+     inkscape:cy="60.082357"
+     inkscape:window-width="1920"
+     inkscape:window-height="989"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs905" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#333333;stroke:#eee9c7;stroke-width:0.4;stroke-dasharray:none;stroke-dashoffset:9.07087"
+       id="rect1166"
+       width="29.6"
+       height="29.6"
+       x="1.1999998"
+       y="1.1999998"
+       ry="4.8047099"
+       rx="4.8047099" />
+    <g
+       id="g1110"
+       transform="matrix(0.64802292,0,0,0.67339685,5.6016292,5.3463367)"
+       style="stroke-width:1.5138">
+      <ellipse
+         style="fill:none;fill-opacity:1;stroke:#eee9c7;stroke-width:1.5138;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+         id="path608"
+         cx="16.046301"
+         cy="15.82078"
+         rx="14.674874"
+         ry="14.093352" />
+      <g
+         id="g1494"
+         transform="matrix(0.81470169,0.07444779,-0.07751967,0.78241742,-34.896842,-22.529164)"
+         style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.88754;stroke-opacity:1">
+        <rect
+           style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.88754;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+           id="rect1378"
+           width="27.89613"
+           height="0.040754236"
+           x="2.2913764"
+           y="77.853813"
+           transform="matrix(0.70673303,-0.70748034,0.70673326,0.70748011,0,0)" />
+        <rect
+           style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.88762;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+           id="rect1378-3"
+           width="21.037645"
+           height="0.030734485"
+           x="6.8747082"
+           y="82.537575"
+           transform="matrix(0.70204123,-0.7121363,0.70204146,0.71213607,0,0)" />
+        <rect
+           style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.8876;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+           id="rect1378-3-6"
+           width="21.303558"
+           height="0.031122964"
+           x="6.0527349"
+           y="73.21653"
+           transform="matrix(0.70324911,-0.71094352,0.70324934,0.71094329,0,0)" />
+        <rect
+           style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.88804;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+           id="rect1378-3-7"
+           width="11.305942"
+           height="0.016517166"
+           x="12.446849"
+           y="86.984512"
+           transform="matrix(0.69513159,-0.71888251,0.69513182,0.71888229,0,0)" />
+        <rect
+           style="fill:#eee9c7;fill-opacity:1;stroke:#eee9c7;stroke-width:1.88758;stroke-dasharray:none;stroke-dashoffset:9.07087;stroke-opacity:1"
+           id="rect1378-3-7-5"
+           width="12.628253"
+           height="0.018448969"
+           x="10.497808"
+           y="68.101234"
+           transform="matrix(0.70992071,-0.70428161,0.70992093,0.70428138,0,0)" />
+      </g>
+    </g>
+  </g>
+</svg>
